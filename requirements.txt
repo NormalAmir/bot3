@@ -1,0 +1,9 @@
+baleio
+schedule
+requests
+beautifulsoup4
+flask
+tzdata
+Pillow
+arabic-reshaper
+python-bidi
